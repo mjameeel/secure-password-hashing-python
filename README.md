@@ -58,9 +58,9 @@ pip install bcrypt
 Run the tool
 ```bash
 python3 password_hashing.py
-```bash
 
-------
+
+
 
 Example flow:
 
