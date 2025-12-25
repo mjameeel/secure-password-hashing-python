@@ -52,7 +52,6 @@ While SHA-256 is cryptographically strong, bcrypt is better suited for password 
 - `bcrypt` library
 
 Install dependencies:
-```bash
 pip install bcrypt
 
 Run the tool
